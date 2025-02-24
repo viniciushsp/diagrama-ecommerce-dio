@@ -8,3 +8,4 @@ Neste repositório é possível verificar os projetos de modelagem de banco de d
 - [3. query-criacao-bd-ecommerce-dio](https://github.com/viniciushsp/dio-sql-db-specialist/blob/main/M%C3%B3dulo%203/query-criacao-bd-ecommerce-dio.sql)
 - [4. query-1-ecommerce-dio](https://github.com/viniciushsp/dio-sql-db-specialist/blob/main/M%C3%B3dulo%203/query-1-ecommerce-dio.png)
 - [5. query-2-ecommerce-dio](https://github.com/viniciushsp/dio-sql-db-specialist/blob/main/M%C3%B3dulo%203/query-2-ecommerce-dio.png)
+- [6. query-criacao-bd-oficina.dio](https://github.com/viniciushsp/dio-sql-db-specialist/blob/main/M%C3%B3dulo%203/query-cricacao-bd-oficina-dio.sql)
